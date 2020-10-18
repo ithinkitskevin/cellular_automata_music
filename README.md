@@ -1,1 +1,1 @@
-# cellular_automata_music
+# Cellular Automata Music
